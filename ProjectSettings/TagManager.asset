@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Cooking
+  - Laundry
+  - Mop
+  - Fix
+  - Water plants
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Room
+  - 
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1383943115
+    locked: 0
+  - name: F-BG
+    uniqueID: 4237055631
+    locked: 0
+  - name: C
+    uniqueID: 2757539471
+    locked: 0
+  - name: B-FG
+    uniqueID: 1136472405
+    locked: 0
+  - name: FG
+    uniqueID: 2615766277
+    locked: 0
+  m_RenderingLayers:
+  - Default
