@@ -4,7 +4,8 @@
 Play or download in this link : https://nhih.itch.io/catcookies
 
 ## ℹ️ Overview
-A optimization game of gaining the most points possible (by eating cookies) as a cat by Nhih, an aspiring game developer studying as an University, togethere with Duck, also studying in Computer Science. 
+A optimization game of gaining the most points possible (by eating cookies) as a cat by Nhih, an aspiring game developer studying as an University, togethere with Duck, a friend also studying in Computer Science. 
+Made for Brackey Game Jam 2025.2
 > *This Github page is the source code to the game, to play the game, please refer to [Play or Download] section.*
 
 ## 🌟 Highlights
